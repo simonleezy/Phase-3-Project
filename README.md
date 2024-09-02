@@ -55,5 +55,3 @@ The ROC curve was plotted and saved as a PNG file, allowing stakeholders to visu
 This project demonstrates the effectiveness of logistic regression, optimized via gradient descent, in classifying organizations based on financial metrics. The ROC and AUC analysis, along with other classification metrics, provide a comprehensive evaluation of model performance, highlighting its potential applications for financial analysts, investors, and corporate executives. Future improvements could include expanding the dataset, exploring additional features, or applying more complex models to enhance prediction accuracy.
 
 ---
-
-This version replaces the "Evaluation" section with a detailed explanation of Logistic Regression and Classification Metrics.
